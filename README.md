@@ -1,13 +1,13 @@
 # HeniTask
 
-All questions have been answer in a jupyter notebook called `HeniTaskQuestions.ipynb`
+All questions have been answered in a jupyter notebook called `HeniTaskQuestions.ipynb`
 
 Worked locally using `Python 3.11.1`
 
 # Dependencies
 
 I've supplied the `requirements.txt` and there is also the `poetry.lock` file.
-Either `pip install -r requirements.txt` from the parent directory or if you have poetry install then you can do `poetry install`
+Either `pip install -r requirements.txt` from the parent directory or if you have poetry installed then you can do `poetry install`
 
 # How to run
 
