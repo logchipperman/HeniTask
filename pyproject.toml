@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "henitask"
+version = "0.1.0"
+description = "dependencies for HeniTask"
+authors = ["alexobrien20 <alexobrien4000@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+scrapy = "^2.7.1"
+pandas = "^1.5.3"
+requests = "^2.28.2"
+chardet = "^5.1.0"
+ipykernel = "^6.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
